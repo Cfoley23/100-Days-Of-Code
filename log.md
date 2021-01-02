@@ -6,12 +6,13 @@
 2.) Practical Programming, Third Edition : An Introduction to Computer Science using Python 3.6 by Paul Gries, Jennifer Campbell, Jason Montojo
 
 ### Day 1: January 1, 2021
-##### (delete me or comment me out)
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Finished Day 8(Functions and Parameters) and moved onto Day 9 (Dictionaries and Nesting) in the Udemy Course By Dr. Angela Yu.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Consistency is key in order to develop a deeper knowledge of programming. That is why I am committing to this 100 Day Code Challenge.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Daily Work:** Caesar Cipher 5, Dictionary and Nesting, and student_scores in Day 01 directory
+
 
 
