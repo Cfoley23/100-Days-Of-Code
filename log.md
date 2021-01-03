@@ -5,14 +5,24 @@
 
 2.) Practical Programming, Third Edition : An Introduction to Computer Science using Python 3.6 by Paul Gries, Jennifer Campbell, Jason Montojo
 
-### Day 1: January 1, 2021
+### Day 01: January 1, 2021
 ##### 
 
-**Today's Progress:** Finished Day 8(Functions and Parameters) and moved onto Day 9 (Dictionaries and Nesting) in the Udemy Course By Dr. Angela Yu.
+***Today's Progress:*** Finished Day 8(Functions and Parameters) and moved onto Day 9 (Dictionaries and Nesting) in the Udemy Course By Dr. Angela Yu.
 
 **Thoughts:** Consistency is key in order to develop a deeper knowledge of programming. That is why I am committing to this 100 Day Code Challenge.
 
 **Daily Work:** Caesar Cipher 5, Dictionary and Nesting, and student_scores in Day 01 directory
 
 
+###Day 02: January 2, 2021
+
+
+***Today's Progress:*** Completed Day 09 (Dictionaries and Nesting) and completed the blind_bidding program
+
+**Thoughts:** Building on Dictionary knowledge from yesterday helped make this new challenge solution click in my head faster.
+
+**Daily Work:** Here is a link to the work on repl.it for the blind bidding program I worked on today.
+
+https://repl.it/@Cfoley23/blindbidding#main.py
 
