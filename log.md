@@ -26,3 +26,14 @@
 
 https://repl.it/@Cfoley23/blindbidding#main.py
 
+###Day 03: January 3, 2021
+
+
+***Today's Progress:*** Learned about Functions with outputs today. Started to create a simple calculator.
+
+**Thoughts:** Getting going on a problem is half the challenge. Finding the place to start on code is difficult. Getting more fluent in Python everyday.
+
+**Daily Work:**
+
+
+
