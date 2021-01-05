@@ -33,7 +33,7 @@ https://repl.it/@Cfoley23/blindbidding#main.py
 
 **Thoughts:** Getting going on a problem is half the challenge. Finding the place to start on code is difficult. Getting more fluent in Python everyday.
 
-**Daily Work:**
+**Daily Work:** Started working on a simple calculator app.
 
 ###Day 04: January 4, 2021
 
