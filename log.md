@@ -38,10 +38,10 @@ https://repl.it/@Cfoley23/blindbidding#main.py
 ###Day 04: January 4, 2021
 
 
-***Today's Progress:***
+***Today's Progress:*** Read and followed along in "Practical Programming" up to page 57. 
 
-**Thoughts:**
+**Thoughts:** Following along with a book is also a helpful, but different learning style. I think a blended approach will really cement the CS theory and Python language into my memory at a quicker pace. 
 
-**Daily Work:**
+**Daily Work:** Followed along with small snippets of code in the built in PythonIDE just figuring out how the interpreter sees the code. 
 
 
