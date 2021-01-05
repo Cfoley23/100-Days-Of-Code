@@ -35,5 +35,13 @@ https://repl.it/@Cfoley23/blindbidding#main.py
 
 **Daily Work:**
 
+###Day 04: January 4, 2021
+
+
+***Today's Progress:***
+
+**Thoughts:**
+
+**Daily Work:**
 
 
