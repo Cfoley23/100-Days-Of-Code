@@ -44,4 +44,20 @@ https://repl.it/@Cfoley23/blindbidding#main.py
 
 **Daily Work:** Followed along with small snippets of code in the built in PythonIDE just figuring out how the interpreter sees the code. 
 
+###Day 05: January 5, 2021
 
+
+***Today's Progress:*** Worked on a few further implements in a simple calculator. Read from Practical Prgrammer while coding along on console. 
+
+**Thoughts:** Been enjoying reading Pragmatic Programmer on the side to inspire me to "think like a programmer"
+
+**Daily Work:** Updated calc file in Day 03
+
+###Day 06: January 6, 2021
+
+***Today's Progress:*** Worked on implementing different ways of parsing comments on a reddit bot. Learned how to use the PRAW module a little further.
+
+**Thoughts:** There is so much to do and explore while learning programming. I have started a "pet project", and while it may be small, it's a start to bigger and better projects. 
+
+**Daily Work:** Reddit bot's meager beginnings 
+https://repl.it/@Cfoley23/Redditbot#main.py
