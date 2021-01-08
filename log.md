@@ -61,3 +61,13 @@ https://repl.it/@Cfoley23/blindbidding#main.py
 
 **Daily Work:** Reddit bot's meager beginnings 
 https://repl.it/@Cfoley23/Redditbot#main.py
+
+###Day 07: January 7, 2021
+
+***Today's Progress:*** Was able to play around with some Scratch with my son today, figuring out how the built-in functions worked.
+I read from Computer Science Distilled, a few chapters. Interesting and easy way to look at CS that I can get behind for an intro book into the topic. 
+Fixed a bug in the calculator app.
+
+**Thoughts:** As I learn about CS the more of the programming concepts make sense. Which, makes sense. :)   
+
+**Daily Work:** 
