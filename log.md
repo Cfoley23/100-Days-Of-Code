@@ -71,3 +71,11 @@ Fixed a bug in the calculator app.
 **Thoughts:** As I learn about CS the more of the programming concepts make sense. Which, makes sense. :)   
 
 **Daily Work:** 
+
+###Day 08: January 8, 2021
+
+***Today's Progress:*** 
+
+**Thoughts:** 
+
+**Daily Work:** 
