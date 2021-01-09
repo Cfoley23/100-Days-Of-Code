@@ -70,12 +70,12 @@ Fixed a bug in the calculator app.
 
 **Thoughts:** As I learn about CS the more of the programming concepts make sense. Which, makes sense. :)   
 
-**Daily Work:** 
+**Daily Work:** Worked on Scratch, creating a program that moves the default cat sprite around the page and added a background. 
 
 ###Day 08: January 8, 2021
 
-***Today's Progress:*** 
+***Today's Progress:*** Finished up calculator app from Day 03 on the udemy app. Moving onto a BlackJack program next. 
 
-**Thoughts:** 
+**Thoughts:** Harder today because the blackjack program was more of a self guided tutorial. 
 
-**Daily Work:** 
+**Daily Work:** Added the beginnings of the blackjack game, and the ascii art file for the logo.
