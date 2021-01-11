@@ -79,3 +79,19 @@ Fixed a bug in the calculator app.
 **Thoughts:** Harder today because the blackjack program was more of a self guided tutorial. 
 
 **Daily Work:** Added the beginnings of the blackjack game, and the ascii art file for the logo.
+
+###Day 09: January 9, 2021
+
+***Today's Progress:*** Worked on the beginning part of a Blackjack program. Created flowcharts to help visualize the program. Also learn about pseudocode. 
+
+**Thoughts:** Learning how to utilize flowcharts to visualize a program that you are trying to create is a really helpful tool. 
+
+**Daily Work:** blackjack2.py added in Month 01 Directory
+
+###Day 09: January 9, 2021
+
+***Today's Progress:*** Finished up the Blackjack project. Took some time to figure out things. 
+
+**Thoughts:** Without a plan in place, larger coding projects would be an absolute disaster. I can see why flowcharts are useful for everyone involved with a project.
+
+**Daily Work:** blackjack2.py updated 
