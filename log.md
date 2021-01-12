@@ -88,10 +88,18 @@ Fixed a bug in the calculator app.
 
 **Daily Work:** blackjack2.py added in Month 01 Directory
 
-###Day 09: January 9, 2021
+###Day 10: January 10, 2021
 
 ***Today's Progress:*** Finished up the Blackjack project. Took some time to figure out things. 
 
-**Thoughts:** Without a plan in place, larger coding projects would be an absolute disaster. I can see why flowcharts are useful for everyone involved with a project.
+**Thoughts:** Without a plan in place, larger coding projects would be a disaster. I can see why flowcharts are useful for everyone involved with a project.
 
 **Daily Work:** blackjack2.py updated 
+
+###Day 11: January 11, 2021
+
+***Today's Progress:***  Learned about Global and Local Variables. Worked on number guessing game using learned concepts.
+
+**Thoughts:** Taking a break once in a while to come back to a problem with a fresh set of eyes is important. Set reminders to get up and take breaks frequently throughout the day.
+
+**Daily Work:**  added to the log.md and added a couple of files in Month 01->Day 05 directory (number_guessing_game.py, art.py)
