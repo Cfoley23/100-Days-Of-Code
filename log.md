@@ -103,3 +103,12 @@ Fixed a bug in the calculator app.
 **Thoughts:** Taking a break once in a while to come back to a problem with a fresh set of eyes is important. Set reminders to get up and take breaks frequently throughout the day.
 
 **Daily Work:**  added to the log.md and added a couple of files in Month 01->Day 05 directory (number_guessing_game.py, art.py)
+
+###Day 12: January 12, 2021
+
+***Today's Progress:***  Dove into the world of open source. It is vast and full of so many types of software to contribute to. Once I gain more knoweldge on 
+programming syntax in general I will dive back into open source. 
+
+**Thoughts:** Open source would be a great way to connect with other developers and build a network as a new developer.
+
+**Daily Work:**  Started working on a higher_lower.py game today added it to Day 12/Week 02.
