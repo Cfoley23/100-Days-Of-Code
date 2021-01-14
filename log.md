@@ -112,3 +112,12 @@ programming syntax in general I will dive back into open source.
 **Thoughts:** Open source would be a great way to connect with other developers and build a network as a new developer.
 
 **Daily Work:**  Started working on a higher_lower.py game today added it to Day 12/Week 02.
+
+###Day 12: January 12, 2021
+
+***Today's Progress:***  Worked on understanding the logic behind the higher_lower.py game I have been tasked to do in the Udemy course by Angela Yu.
+Really great course that I am learning and being challenged on. 
+
+**Thoughts:** Taking breaks is important. Routine is important, but doesn't define 'productive' work. Staying committed to the solution is 90% getting there.
+
+**Daily Work:**  Worked on higher_lower.py in Week 02/Day 12
