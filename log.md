@@ -113,7 +113,7 @@ programming syntax in general I will dive back into open source.
 
 **Daily Work:**  Started working on a higher_lower.py game today added it to Day 12/Week 02.
 
-###Day 12: January 12, 2021
+###Day 13: January 13, 2021
 
 ***Today's Progress:***  Worked on understanding the logic behind the higher_lower.py game I have been tasked to do in the Udemy course by Angela Yu.
 Really great course that I am learning and being challenged on. 
@@ -121,3 +121,67 @@ Really great course that I am learning and being challenged on.
 **Thoughts:** Taking breaks is important. Routine is important, but doesn't define 'productive' work. Staying committed to the solution is 90% getting there.
 
 **Daily Work:**  Worked on higher_lower.py in Week 02/Day 12
+
+###Day 14: January 14, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 15: January 15, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 16: January 16, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 17: January 17, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 18: January 18, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 19: January 19, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 20: January 20, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 21: January 21, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
