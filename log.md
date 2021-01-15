@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-**Study materials used in the challenge**
+###Study materials used in the challenge
 
 1.) Udemy - 100 Days of Code - The Complete Python Pro Bootcamp for 2021 (By Dr. Angela Yu, App Brewery)
 
@@ -124,7 +124,7 @@ Really great course that I am learning and being challenged on.
 
 ###Day 14: January 14, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Started working on a Coffee Machine program. 
 
 **Thoughts:** 
 
@@ -179,6 +179,86 @@ Really great course that I am learning and being challenged on.
 **Daily Work:**  
 
 ###Day 21: January 21, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 22: January 22, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 23: January 23, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 24: January 24, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 25: January 25, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 26: January 26, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 27: January 27, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 28: January 28, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 29: January 29, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 30: January 30, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+###Day 31: January 31, 2021
 
 ***Today's Progress:***  
 
