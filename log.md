@@ -153,11 +153,12 @@ There are so many ways to express yourself through the solution.
 
 ###Day 15: January 15, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Finished the Coffee Machine program with basic functionalities. Tomorrow will tackle the same
+project but with OOP. 
 
-**Thoughts:** 
+**Thoughts:** Was a challenge but it is getting easier to see some solutions in code instead of looking everything up.
 
-**Daily Work:**  
+**Daily Work:**  main.py was updated with the last of the work on the Coffee Machine.
 
 ###Day 16: January 16, 2021
 
