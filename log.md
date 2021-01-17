@@ -162,11 +162,11 @@ project but with OOP.
 
 ###Day 16: January 16, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Learned about OOP. Played around in the Turtle module. Named my Class object Timmy the Turtle.
 
-**Thoughts:** 
+**Thoughts:** OOP is useful to not re-write chunks of commonly used code. Saves time, creates a more modular system.
 
-**Daily Work:**  
+**Daily Work:**  small main.py file in Day 16 with work on the turtle module. 
 
 ###Day 17: January 17, 2021
 
