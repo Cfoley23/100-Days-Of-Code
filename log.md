@@ -170,19 +170,23 @@ project but with OOP.
 
 ###Day 17: January 17, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Worked on re-writing the coffee machine in OOP. Learned more about how OOP can be powerful and 
+quick when it comes to re-using code in modules to then piece together software faster.
 
-**Thoughts:** 
+**Thoughts:** OOP is the buzzword I've heard about in coding. Not new, but still mostly the dominant style ATM.
 
-**Daily Work:**  
+**Daily Work:**  Uploaded the OOP coffee machine to Day 16
 
 ###Day 18: January 18, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Working on understanding Classes, Attributes and Methods in Python. Did some small coding
+exercises to illustrate the concepts. 
 
-**Thoughts:** 
+**Thoughts:** OOP is just another way of approaching a problem in a more modular way. Why re-invent the wheel if 
+you don't have to?
 
-**Daily Work:**  
+**Daily Work:** Uploaded the starting files and support files for the Day 17 project which is a Quiz Game. Began 
+working on the project.
 
 ###Day 19: January 19, 2021
 
