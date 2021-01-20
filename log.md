@@ -190,11 +190,13 @@ working on the project.
 
 ###Day 19: January 19, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Worked on OOP further by finishing the quiz_game from the previous day. Also started working on
+the Turtle module a little more in-depth. 
 
-**Thoughts:** 
+**Thoughts:** OOP is easy to modularize, and then use small bits for other projects. Or change the way the code works by 
+changing a few lines rather than re-factoring the whole project.
 
-**Daily Work:**  
+**Daily Work:**  Finished the quiz game on Day 17. Uploaded it to the Day 17 file in the Week 03 directory.
 
 ###Day 20: January 20, 2021
 
