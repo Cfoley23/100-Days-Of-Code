@@ -34,9 +34,23 @@ def draw_circles(size_of_gap):
         timmy.circle(100)
         timmy.setheading(timmy.heading() + size_of_gap)
 
+
+def beautiful_potato():
+    screen.bgcolor("black")
+    colors = ['red', 'purple', 'blue', 'green', 'orange', 'yellow']
+    t = timmy.pen()
+    for x in range(360):
+        timmy.pencolor(colors[x%6])
+        timmy.width(x/100 + 1)
+        timmy.forward(x)
+        timmy.left(59)
+
+
+beautiful_potato()
+
 #draw_circles(5)
 
 
-spirograph_circle(200)
+#spirograph_circle(200)
 
 screen.exitonclick()
