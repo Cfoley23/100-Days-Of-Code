@@ -200,11 +200,13 @@ changing a few lines rather than re-factoring the whole project.
 
 ###Day 20: January 20, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  More work with the turtle module. Made a lot of progress in the realm of understanding the 
+documentation a lot more than previous modules. Things clicked faster. 
 
-**Thoughts:** 
+**Thoughts:** Repetition is key, two days in a row working on the turtle module has really reinforced my knowledge on 
+module, and in the knowledge I have gained in regards to coding in general. Fun lesson today!
 
-**Daily Work:**  
+**Daily Work:**  Messed around a bunch with files in Day 17. Deleted and reformatted to make "digital art".
 
 ###Day 21: January 21, 2021
 
