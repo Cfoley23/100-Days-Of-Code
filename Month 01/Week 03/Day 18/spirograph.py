@@ -21,6 +21,7 @@ screen.bgcolor(random_color())
 # my solution
 def spirograph_circle(num_circles):
     for _ in range(num_circles):
+        timmy.pensize(random.randint(2, 20))
         timmy.pencolor(random_color())
         timmy.circle(random.randint(50, 200), 360)
         timmy.right(5)
@@ -33,9 +34,9 @@ def draw_circles(size_of_gap):
         timmy.circle(100)
         timmy.setheading(timmy.heading() + size_of_gap)
 
-draw_circles(5)
+#draw_circles(5)
 
 
-#spirograph_circle(100)
+spirograph_circle(200)
 
 screen.exitonclick()
