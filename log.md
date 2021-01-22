@@ -210,11 +210,11 @@ module, and in the knowledge I have gained in regards to coding in general. Fun 
 
 ###Day 21: January 21, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  More Turtle work, made a turtle race with prompts and tells the winner of the input guess.
 
-**Thoughts:** 
+**Thoughts:** Turtle is, for me personally, a fast way to learn coding with the visual representation.
 
-**Daily Work:**  
+**Daily Work:**  Day 19 files added
 
 ###Day 22: January 22, 2021
 

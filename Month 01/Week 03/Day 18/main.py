@@ -22,7 +22,7 @@ def make_random_walk(step_number):
     screen.bgcolor(random_color())
     for _ in range(step_number):
         timmy.color('olivedrab')
-        timmy.dot(random.randint(5, 60), random_color())
+        timmy.dot(random.randint(3, 40), random_color())
         timmy.setheading(90 * random.randint(0, 3))
         timmy.forward(random.randint(1, 50))
         timmy.pensize(random.randint(1, 10))

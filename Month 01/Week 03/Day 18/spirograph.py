@@ -46,11 +46,11 @@ def beautiful_potato():
         timmy.left(59)
 
 
-beautiful_potato()
+#beautiful_potato()
 
 #draw_circles(5)
 
 
-#spirograph_circle(200)
+spirograph_circle(200)
 
 screen.exitonclick()
