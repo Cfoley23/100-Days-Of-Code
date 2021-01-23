@@ -5,7 +5,7 @@ is_race_on = False
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'purple']
 screen = Screen()
 screen.setup(width=500, height=400)
-screen.bgcolor('black')
+screen.bgpic('turtle.png')
 user_bet = screen.textinput(title="Make Your Bet", prompt="Which Turtle Will Win The Race? Pick A Color:  ")
 y_position = [-80, -50, -10, 30, 60, 90]
 all_turtles = []

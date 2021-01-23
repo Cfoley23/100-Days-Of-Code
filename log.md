@@ -218,11 +218,12 @@ module, and in the knowledge I have gained in regards to coding in general. Fun 
 
 ###Day 22: January 22, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Finished the race in turtle. Moved onto making a snake game in the turtle library next.
 
-**Thoughts:** 
+**Thoughts:** What seems like a simple library, turtle, can be manipulated to perform much more complex tasks than 
+drawing a picture.
 
-**Daily Work:**  
+**Daily Work:**  Uploaded the files in Day 20
 
 ###Day 23: January 23, 2021
 
