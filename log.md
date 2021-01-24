@@ -227,11 +227,12 @@ drawing a picture.
 
 ###Day 23: January 23, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Worked a little further in the snake game by adding controls to the movement. Also read from
+computer science distilled, which is turning out to be helpful in basic CS concepts. 
 
-**Thoughts:** 
+**Thoughts:** Enjoying the simplicity and power of OOP. Cuts down on time coding the same thing over and over again.
 
-**Daily Work:**  
+**Daily Work:**  worked on Day 20 main.py and snake.py
 
 ###Day 24: January 24, 2021
 

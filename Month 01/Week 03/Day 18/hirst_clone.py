@@ -21,7 +21,7 @@ timmy.color('darkgreen')
 timmy.shape('turtle')
 screen = t.Screen()
 timmy.hideturtle()
-
+screen.bgcolor("grey8")
 num_of_dots = 100
 timmy.penup()
 timmy.setx(-200)

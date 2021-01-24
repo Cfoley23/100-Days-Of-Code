@@ -5,10 +5,17 @@ import time
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor('black')
-screen.title("My Snake Game")
+screen.title("My Hungry Caterpillar Game")
 screen.tracer(0)
 
 snake = Snake()
+
+screen.onkeypress(snake.up, "Up")
+screen.onkey(snake.down, "Down")
+screen.onkey(snake.left, "Left")
+screen.onkey(snake.right, "Right")
+
+screen.listen()
 
 segments = []
 
@@ -17,7 +24,7 @@ game_is_on = True
 #implement a difficulty level with time.sleep()
 while game_is_on:
     screen.update()
-    time.sleep(0.25)
+    time.sleep(0.2)
 
     snake.move()
 
