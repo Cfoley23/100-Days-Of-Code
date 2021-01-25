@@ -236,11 +236,11 @@ computer science distilled, which is turning out to be helpful in basic CS conce
 
 ###Day 24: January 24, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Learned further into inheritance. 
 
 **Thoughts:** 
 
-**Daily Work:**  
+**Daily Work:**   
 
 ###Day 25: January 25, 2021
 

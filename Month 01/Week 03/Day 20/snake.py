@@ -1,4 +1,5 @@
-from turtle import Turtle
+from turtle import Turtle, Screen
+import random
 
 STARTING_POSITIONS = [(0, 0), (-20, 0), (-40, 0)]
 MOVE_DISTANCE = 20
@@ -6,6 +7,17 @@ UP = 90
 DOWN = 270
 LEFT = 180
 RIGHT = 0
+
+screen = Screen()
+screen.colormode(255)
+
+def random_color():
+    r = random.randint(0, 255)
+    g = random.randint(0, 255)
+    b = random.randint(0, 255)
+    random_color = (r, g, b)
+    return random_color
+
 
 class Snake:
 
@@ -19,7 +31,7 @@ class Snake:
     def create_snake(self):
         for position in STARTING_POSITIONS:
             new_segment = Turtle('square')
-            new_segment.color('green')
+            new_segment.color(random_color())
             new_segment.penup()
             new_segment.goto(position)
             self.segments.append(new_segment)

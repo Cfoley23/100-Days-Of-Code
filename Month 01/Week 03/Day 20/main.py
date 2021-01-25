@@ -5,7 +5,7 @@ import time
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor('black')
-screen.title("My Hungry Caterpillar Game")
+screen.title("The Best Hungry Caterpillar Game Ever")
 screen.tracer(0)
 
 snake = Snake()
