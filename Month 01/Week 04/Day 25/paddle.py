@@ -1,6 +1,6 @@
 from turtle import Turtle
 MOVEMENT_AMOUNT = 20
-PADDLE_WIDTH = 5
+PADDLE_WIDTH = 4
 PADDLE_HEIGHT = 1
 
 class Paddle(Turtle):

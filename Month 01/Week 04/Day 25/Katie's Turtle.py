@@ -11,15 +11,21 @@ turtle_shape = ((0, 16), (-2, 14), (-1, 10), (-4, 7),
 
 big_turtle = ()
 
-for a, b in turtle_shape:
-    num_1 = a * 5
-    num_2 = b * 5
-    if a == 0:
-        a + 5
-    if b == 0:
-        b + 5
-    print(a, b, num_1, num_2)
 
+
+def turtle_size(amount):
+    li = []
+    for a, b in turtle_shape:
+        num_1 = a * amount
+        num_2 = b * amount
+        if a == 0:
+            num_1 += amount
+        if b == 0:
+            num_2 += amount
+        print(a, b, num_1, num_2)
+
+
+turtle_size(10)
 
 print(big_turtle)
 
