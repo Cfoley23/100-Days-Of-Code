@@ -11,12 +11,13 @@ RIGHT = 0
 screen = Screen()
 screen.colormode(255)
 
+
 def random_color():
     r = random.randint(0, 255)
     g = random.randint(0, 255)
     b = random.randint(0, 255)
-    random_color = (r, g, b)
-    return random_color
+    rand_color = (r, g, b)
+    return rand_color
 
 
 class Snake:
@@ -26,7 +27,6 @@ class Snake:
         self.create_snake()
         self.head = self.segments[0]
         self.head.color('red')
-
 
     def create_snake(self):
         for position in STARTING_POSITIONS:
@@ -62,5 +62,5 @@ class Snake:
             self.head.setheading(LEFT)
 
     def right(self):
-        if self.head.heading() !=LEFT:
+        if self.head.heading() != LEFT:
             self.head.setheading(RIGHT)
