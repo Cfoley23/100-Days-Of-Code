@@ -244,11 +244,13 @@ computer science distilled, which is turning out to be helpful in basic CS conce
 
 ###Day 25: January 25, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Started work on a PONG clone I have rename PYPONG. Also messed around with with turtle.py
+in the lib folder in python 3.8. 
 
-**Thoughts:** 
+**Thoughts:** Realized that this daily work is paying off. Reading through the turtle.py code and understanding *some*
+of the things that were going on in there. 
 
-**Daily Work:**  
+**Daily Work:**  Created Day 25 directory and added a few files related to the PYPONG game.
 
 ###Day 26: January 26, 2021
 

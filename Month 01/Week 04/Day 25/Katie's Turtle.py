@@ -9,7 +9,29 @@ turtle_shape = ((0, 16), (-2, 14), (-1, 10), (-4, 7),
 (5, -3), (7, 1), (6, 5), (9, 8), (7, 9), (4, 7), (1, 10),
 (2, 14), (0, 16))
 
-print(turtle_shape[0])
+big_turtle = ()
+
+for a, b in turtle_shape:
+    num_1 = a * 5
+    num_2 = b * 5
+    if a == 0:
+        a + 5
+    if b == 0:
+        b + 5
+    print(a, b, num_1, num_2)
+
+
+print(big_turtle)
+
+
+# for index, tuple in enumerate(list_of_tuples):
+#
+# 	element_one = tuple[0]
+#
+# 	element_two = tuple[1]
+#
+# 	print(element_one, element_two)
+
 
 # francis.shape('turtle')
 # francis.color('darkred')
