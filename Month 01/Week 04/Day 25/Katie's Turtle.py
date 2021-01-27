@@ -9,9 +9,7 @@ turtle_shape = ((0, 16), (-2, 14), (-1, 10), (-4, 7),
 (5, -3), (7, 1), (6, 5), (9, 8), (7, 9), (4, 7), (1, 10),
 (2, 14), (0, 16))
 
-big_turtle = ()
-
-
+new_turtle = ()
 
 def turtle_size(amount):
     li = []
@@ -27,7 +25,7 @@ def turtle_size(amount):
 
 turtle_size(10)
 
-print(big_turtle)
+
 
 
 # for index, tuple in enumerate(list_of_tuples):
