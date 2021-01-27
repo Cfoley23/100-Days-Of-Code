@@ -2,7 +2,7 @@ from turtle import Turtle, Screen
 
 timmy = Turtle()
 screen = Screen()
-
+screen.bgcolor('grey')
 def move_forwards():
     timmy.forward(10)
 

@@ -1,5 +1,5 @@
 from turtle import Turtle
-MOVEMENT_AMOUNT = 20
+MOVEMENT_AMOUNT = 30
 PADDLE_WIDTH = 4
 PADDLE_HEIGHT = 1
 

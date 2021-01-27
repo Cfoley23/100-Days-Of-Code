@@ -254,11 +254,11 @@ of the things that were going on in there.
 
 ###Day 26: January 26, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Finished the PYPONG game in Day 25 on the directory
 
-**Thoughts:** 
+**Thoughts:** Putting together the pieces of the game was challenging but rewarding. Took a little longer than expected.
 
-**Daily Work:**  
+**Daily Work:** main.py in Day 25 is complete as it's going to be at the moment. :) 
 
 ###Day 27: January 27, 2021
 
