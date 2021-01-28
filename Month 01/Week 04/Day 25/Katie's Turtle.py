@@ -9,7 +9,7 @@ turtle_shape = ((0, 16), (-2, 14), (-1, 10), (-4, 7),
 (5, -3), (7, 1), (6, 5), (9, 8), (7, 9), (4, 7), (1, 10),
 (2, 14), (0, 16))
 
-new_turtle = ()
+new_turtle = francis.turtlesize(5, 5)
 
 def turtle_size(amount):
     li = []
@@ -23,7 +23,6 @@ def turtle_size(amount):
         print(a, b, num_1, num_2)
 
 
-turtle_size(10)
 
 
 
