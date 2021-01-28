@@ -262,11 +262,11 @@ of the things that were going on in there.
 
 ###Day 27: January 27, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Started and finished the Turtle crossing game in day 27
 
-**Thoughts:** 
+**Thoughts:** making the game design a little more interesting paid off for a simple game
 
-**Daily Work:**  
+**Daily Work:**  uploaded numerous files to Day 27
 
 ###Day 28: January 28, 2021
 
