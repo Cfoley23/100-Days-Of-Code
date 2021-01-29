@@ -270,11 +270,12 @@ of the things that were going on in there.
 
 ###Day 28: January 28, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Woked on random "art" generators in turtle. Created a spirograph, and then made
+it randomized. 
 
-**Thoughts:** 
+**Thoughts:** The turtle library is capable of many different types of visual tasks. 
 
-**Daily Work:**  
+**Daily Work:**  Uploaded to the Day 28 folder
 
 ###Day 29: January 29, 2021
 
