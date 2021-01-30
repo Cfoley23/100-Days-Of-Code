@@ -279,11 +279,13 @@ it randomized.
 
 ###Day 29: January 29, 2021
 
-***Today's Progress:***  
+***Today's Progress:*** Worked on and finisehd a mail merge project using the built-in open() function.  
+Started working with Pandas, NumPy today too.
 
-**Thoughts:** 
+**Thoughts:** Simplifying vast amounts of data quickly with Pandas is easy once you dig into the documentation.
+Just scratching the surface of this vast library.
 
-**Daily Work:**  
+**Daily Work:**  Uploaded to Day 28 and Day 29 today. 
 
 ###Day 30: January 30, 2021
 
