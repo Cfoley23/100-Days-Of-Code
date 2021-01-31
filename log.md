@@ -270,16 +270,16 @@ of the things that were going on in there.
 
 ###Day 28: January 28, 2021
 
-***Today's Progress:***  Woked on random "art" generators in turtle. Created a spirograph, and then made
+***Today's Progress:***  Worked on random "art" generators in turtle. Created a spirograph, and then made
 it randomized. 
 
-**Thoughts:** The turtle library is capable of many different types of visual tasks. 
+**Thoughts:** The turtle library is capable of multiple types of visual tasks. 
 
 **Daily Work:**  Uploaded to the Day 28 folder
 
 ###Day 29: January 29, 2021
 
-***Today's Progress:*** Worked on and finisehd a mail merge project using the built-in open() function.  
+***Today's Progress:*** Worked on and finished a mail merge project using the built-in open() function.  
 Started working with Pandas, NumPy today too.
 
 **Thoughts:** Simplifying vast amounts of data quickly with Pandas is easy once you dig into the documentation.
@@ -289,11 +289,13 @@ Just scratching the surface of this vast library.
 
 ###Day 30: January 30, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  PANDAS practice today. Learned how to manipulate the data in a .csv file with PANDAS.
 
-**Thoughts:** 
+**Thoughts:** The power of distilling data in PANDAS is very apparent after only brief usage. I can see why I've heard 
+the name being mentioned many times online. 
 
-**Daily Work:**  
+**Daily Work:**  Began work on a U.S. States Map quiz game. Figured out how many squirrels were black, grey, and 
+cinammon in Central Park in NY from a public data share website. Used a .csv file to parse through the data. 
 
 ###Day 31: January 31, 2021
 

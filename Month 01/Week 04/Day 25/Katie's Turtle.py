@@ -9,6 +9,12 @@ turtle_shape = ((0, 16), (-2, 14), (-1, 10), (-4, 7),
 (5, -3), (7, 1), (6, 5), (9, 8), (7, 9), (4, 7), (1, 10),
 (2, 14), (0, 16))
 
+bigger_shape = ((5, 16), (-2, 14), (-1, 10), (-4, 7),
+(-7, 9), (-9, 8), (-6, 5), (-7, 1), (-5, -3), (-8, -6),
+(-6, -8), (-4, -5), (0, -7), (4, -5), (6, -8), (8, -6),
+(5, -3), (7, 1), (6, 5), (9, 8), (7, 9), (4, 7), (1, 10),
+(2, 14), (0, 16))
+
 new_turtle = francis.turtlesize(5, 5)
 
 def turtle_size(amount):
@@ -27,13 +33,13 @@ def turtle_size(amount):
 
 
 
-# for index, tuple in enumerate(list_of_tuples):
-#
-# 	element_one = tuple[0]
-#
-# 	element_two = tuple[1]
-#
-# 	print(element_one, element_two)
+for index, tuple in enumerate(turtle_shape):
+
+	element_one = tuple[0]
+
+	element_two = tuple[1]
+
+	print(element_one, element_two)
 
 
 # francis.shape('turtle')
