@@ -1,4 +1,63 @@
 # 100 Days Of Code - Log
+## This is a round 1 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from the date 01/01/21 to 04/10/21.
+<a name="toc"></a>
+### Table of Contents 
+|Day|Focus|Day|Focus|
+|:---:|:-----:|:---:|:-----:|
+|[Day 1](#day-1) **01/01/21**| Day 8 in #100DaysOfCode course by AppBrewery. Learned about Functions and Parameters.|[Day 2](#day-2) **01/02/21**| Worked on Dictionaries and Nesting today. Blind_bidding program I made found here: https://repl.it/@Cfoley23/blindbidding#main.py|
+|[Day 3](#day-3) **01/03/21**| Learned about Functions and made a simple calculator in Python|[Day 4](#day-4) **01/04/21**| Familiarized myself with the built in IDLE that Python comes with. Followed along to some CS concepts in IDLE to predict how it would read my code. |
+|[Day 5](#day-5) **01/05/21**| Applied more slightly more complex functions to the basic calculator app.|[Day 6](#day-6) **01/06/21**| Began exploring the PRAW documentation to implement a reddit instance in the Paleontology subReddit.|
+|[Day 7](#day-7) **21/10/18**| |[Day-8](#day-8) **22/10/18**| |
+|[Day 9](#day-9) **23/10/18**| |[Day-10](#day-10) **24/10/18**| |
+|[Day 11](#day-11) **25/10/18**| |[Day 12](#day-12) **26/10/18**| | 
+|[Day 13](#day-13) **27/10/18**| |[Day 14](#day-14) **28/10/18**| |
+ |[Day 15](#day-15) **29/10/18**| |[Day 16](#day-16) **30/10/18**| |
+ |[Day 17](#day-17) **31/10/18**| |[Day 18](#day-18) **1/11/18**| |
+ |[Day 19](#day-19) **2/01/18**| |[Day 20](#day-20) **3/11/18**| |
+ |[Day 21](#day-21) **4/01/18**| |[Day 22](#day-22) **5/11/18**|  |
+ |[Day 23](#day-23) **6/01/18**| |[Day 24](#day-24) **7/11/18**| |
+|[Day 25](#day-25) **8/01/18**| |[Day 26](#day-26) **9/11/18**| |
+|[Day 27](#day-27) **10/01/18**| |[Day 28](#day-28) **11/11/18**| |
+|[Day 29](#day-29) **12/01/18**| |[Day 30](#day-30) **13/11/18**| |
+|[Day 31](#day-31) **14/01/18**| |[Day 32](#day-32) **15/11/18**| |
+|[Day 33](#day-33) **16/01/18**| |[Day 34](#day-34) **17/11/18**| |
+|[Day 35](#day-35) **18/01/18**| |[Day 36](#day-36) **19/11/18**||
+|[Day 37](#day-37) **20/01/18**| |[Day 38](#day-38) **21/11/18**| |
+|[Day 39](#day-39) **22/01/18**| |[Day 40](#day-40) **23/11/18**| |
+[Day 41](#day-41) **24/01/18**| |[Day 42](#day-42) **25/11/18**| |
+[Day 43](#day-43) **26/01/18**| |[Day 44](#day-44) **27/11/18**| |
+[Day 45](#day-43) **28/01/18**| |[Day 46](#day-46) **29/11/18**| |
+[Day 47](#day-47) **30/11/18**| |[Day 48](#day-48) **01/12/18**| |
+[Day 49](#day-49) **02/12/18**| |[Day 50](#day-50) **03/12/18**| |
+[Day 51](#day-51) **04/12/18**| |[Day 52](#day-52) **05/12/18**|  |
+[Day 53](#day-53) **06/12/18**| |[Day 54](#day-54) **07/12/18**|  |
+[Day 55](#day-55) **08/12/18**| |[Day 56](#day-56) **09/12/18**| |
+[Day 57](#day-57) **10/12/18**| |[Day 58](#day-58) **11/12/18**| |
+[Day 59](#day-59) **12/12/18**| |[Day 60](#day-60) **13/12/18**| |
+[Day 61](#day-61) **14/12/18**| |[Day 62](#day-62) **15/12/18**| |
+ [Day 63](#day-63) **16/12/18**| |[Day 64](#day-64) **17/12/18**| |
+[Day 65](#day-65) **18/12/18**| |[Day 66](#day-66) **19/12/18**| |
+[Day 67](#day-67) **20/12/18**| |[Day 68](#day-68) **21/12/18**| |
+[Day 69](#day-69) **22/12/18**| |[Day 70](#day-70) **23/12/18**| |
+[Day 71](#day-71) **24/12/18**| |[Day 72](#day-72) **24/12/18**|  |
+[Day 73](#day-73) **26/12/18**| |[Day 74](#day-74) **27/12/18**| |
+[Day 75](#day-75) **28/12/18**| |[Day 76](#day-76) **29/12/18**| |
+[Day 77](#day-77) **30/12/18**| |[Day 78](#day-78) **31/12/18**||
+[Day 79](#day-79) **01/01/19**| |[Day 80](#day-80) **02/02/19**||
+[Day 81](#day-81) **03/01/19**| |[Day 82](#day-82) **04/01/19**||
+[Day 83](#day-83) **05/01/19**| |[Day 84](#day-84) **06/01/19**||
+[Day 85](#day-85) **07/01/19**| |[Day 86](#day-86) **08/01/19**||
+[Day 87](#day-87) **09/01/19**| |[Day 88](#day-88) **10/01/19**||
+[Day 89](#day-89) **11/01/19**| |[Day 90](#day-90) **12/01/19**||
+[Day 91](#day-91) **13/01/19**| |[Day 92](#day-92) **14/01/19**||
+[Day 93](#day-93) **15/01/19**| |[Day 94](#day-94) **16/01/19**||
+[Day 95](#day-95) **17/01/19**| |[Day 96](#day-96) **18/01/19**||
+[Day 97](#day-97) **19/01/19**| |[Day 98](#day-98) **04/08/21**||
+[Day 99](#day-99) **04/09/21**| |[Day 100](#day-100) **04/10/21**||
+
+<a name="day-1"></a>
+
+# 100 Days Of Code - Log
 ###Study materials used in the challenge
 
 1.) Udemy - 100 Days of Code - The Complete Python Pro Bootcamp for 2021 (By Dr. Angela Yu, App Brewery)
@@ -17,6 +76,7 @@ to this 100 Day Code Challenge.
 
 **Daily Work:** Caesar Cipher 5, Dictionary and Nesting, and student_scores in Day 01 directory
 
+<a name="day-2"></a>
 
 ###Day 02: January 2, 2021
 
@@ -29,6 +89,8 @@ head faster.
 **Daily Work:** Here is a link to the work on repl.it for the blind bidding program I worked on today.
 
 https://repl.it/@Cfoley23/blindbidding#main.py
+
+<a name="day-3"></a>
 
 ###Day 03: January 3, 2021
 
@@ -69,8 +131,8 @@ use the PRAW module a little further.
 **Thoughts:** There is so much to do and explore while learning programming. I have started a "pet project", 
 and while it may be small, it's a start to bigger and better projects. 
 
-**Daily Work:** Reddit bot's meager beginnings 
-https://repl.it/@Cfoley23/Redditbot#main.py
+**Daily Work:** The reddit bot got a basic log-in function implemented and comment parsing.
+
 
 ###Day 07: January 7, 2021
 

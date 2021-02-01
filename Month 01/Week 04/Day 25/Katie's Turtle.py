@@ -9,11 +9,7 @@ turtle_shape = ((0, 16), (-2, 14), (-1, 10), (-4, 7),
 (5, -3), (7, 1), (6, 5), (9, 8), (7, 9), (4, 7), (1, 10),
 (2, 14), (0, 16))
 
-bigger_shape = ((5, 16), (-2, 14), (-1, 10), (-4, 7),
-(-7, 9), (-9, 8), (-6, 5), (-7, 1), (-5, -3), (-8, -6),
-(-6, -8), (-4, -5), (0, -7), (4, -5), (6, -8), (8, -6),
-(5, -3), (7, 1), (6, 5), (9, 8), (7, 9), (4, 7), (1, 10),
-(2, 14), (0, 16))
+bigger_shape = [n*5 for n in turtle_shape]
 
 new_turtle = francis.turtlesize(5, 5)
 
@@ -51,7 +47,7 @@ francis.pu()
 francis.goto(0, 16)
 francis.pd()
 
-for x in turtle_shape:
+for x in bigger_shape:
     francis.goto(x)
 
 
