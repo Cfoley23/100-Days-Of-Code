@@ -59,12 +59,13 @@
 
 # 100 Days Of Code - Log
 ###Study materials used in the challenge
-
+```
 1.) Udemy - 100 Days of Code - The Complete Python Pro Bootcamp for 2021 (By Dr. Angela Yu, App Brewery)
-
+```
+```
 2.) Practical Programming, Third Edition : An Introduction to Computer Science using Python 3.6 
     by Paul Gries, Jennifer Campbell, Jason Montojo
-
+```
 ### Day 01: January 1, 2021
 ##### 
 
@@ -88,7 +89,7 @@ head faster.
 
 **Daily Work:** Here is a link to the work on repl.it for the blind bidding program I worked on today.
 
-https://repl.it/@Cfoley23/blindbidding#main.py
+`https://repl.it/@Cfoley23/blindbidding#main.py`
 
 <a name="day-3"></a>
 
@@ -102,6 +103,8 @@ Getting more fluent in Python everyday.
 
 **Daily Work:** Started working on a simple calculator app.
 
+<a name="day-4"></a>
+
 ###Day 04: January 4, 2021
 
 
@@ -113,6 +116,8 @@ approach will really cement the CS theory and Python language into my memory at 
 **Daily Work:** Followed along with small snippets of code in the built in PythonIDE just figuring out how the 
 interpreter sees the code. 
 
+<a name="day-5"></a>
+
 ###Day 05: January 5, 2021
 
 
@@ -122,6 +127,8 @@ while coding along on console.
 **Thoughts:** Been enjoying reading Pragmatic Programmer on the side to inspire me to "think like a programmer"
 
 **Daily Work:** Updated calc file in Day 03
+
+<a name="day-6"></a>
 
 ###Day 06: January 6, 2021
 
@@ -133,6 +140,7 @@ and while it may be small, it's a start to bigger and better projects.
 
 **Daily Work:** The reddit bot got a basic log-in function implemented and comment parsing.
 
+<a name="day-7"></a>
 
 ###Day 07: January 7, 2021
 
@@ -145,6 +153,8 @@ I can get behind for an intro book into the topic. Fixed a bug in the calculator
 **Daily Work:** Worked on Scratch, creating a program that moves the default cat sprite around the page and added 
 a background. 
 
+<a name="day-8"></a>
+
 ###Day 08: January 8, 2021
 
 ***Today's Progress:*** Finished up calculator app from Day 03 on the udemy app. Moving onto a BlackJack program next. 
@@ -152,6 +162,8 @@ a background.
 **Thoughts:** Harder today because the blackjack program was more of a self guided tutorial. 
 
 **Daily Work:** Added the beginnings of the blackjack game, and the ascii art file for the logo.
+
+<a name="day-9"></a>
 
 ###Day 09: January 9, 2021
 
@@ -163,6 +175,8 @@ helpful tool.
 
 **Daily Work:** blackjack2.py added in Month 01 Directory
 
+<a name="day-10"></a>
+
 ###Day 10: January 10, 2021
 
 ***Today's Progress:*** Finished up the Blackjack project. Took some time to figure out things. 
@@ -171,6 +185,8 @@ helpful tool.
 useful for everyone involved with a project.
 
 **Daily Work:** blackjack2.py updated 
+
+<a name="day-11"></a>
 
 ###Day 11: January 11, 2021
 
@@ -182,6 +198,8 @@ Set reminders to get up and take breaks frequently throughout the day.
 **Daily Work:**  added to the log.md and added a couple of files in Month 01->Day 05 directory 
 (number_guessing_game.py, art.py)
 
+<a name="day-12"></a>
+
 ###Day 12: January 12, 2021
 
 ***Today's Progress:***  Dove into the world of open source. It is vast and full of so many types of software to 
@@ -191,6 +209,8 @@ programming syntax in general I will dive back into open source.
 **Thoughts:** Open source would be a great way to connect with other developers and build a network as a new developer.
 
 **Daily Work:**  Started working on a higher_lower.py game today added it to Day 12/Week 02.
+
+<a name="day-13"></a>
 
 ###Day 13: January 13, 2021
 
@@ -203,6 +223,8 @@ to the solution is 90% getting there.
 
 **Daily Work:**  Worked on higher_lower.py in Week 02/Day 12
 
+<a name="day-14"></a>
+
 ###Day 14: January 14, 2021
 
 ***Today's Progress:***  Started working on a Coffee Machine program within a given set of specs. From Udemy course ^
@@ -213,6 +235,8 @@ There are so many ways to express yourself through the solution.
 
 **Daily Work:**  Added main.py to Day 14 directory
 
+<a name="day-15"></a>
+
 ###Day 15: January 15, 2021
 
 ***Today's Progress:***  Finished the Coffee Machine program with basic functionalities. Tomorrow will tackle the same
@@ -222,6 +246,8 @@ project but with OOP.
 
 **Daily Work:**  main.py was updated with the last of the work on the Coffee Machine.
 
+<a name="day-16"></a>
+
 ###Day 16: January 16, 2021
 
 ***Today's Progress:***  Learned about OOP. Played around in the Turtle module. Named my Class object Timmy the Turtle.
@@ -229,6 +255,8 @@ project but with OOP.
 **Thoughts:** OOP is useful to not re-write chunks of commonly used code. Saves time, creates a more modular system.
 
 **Daily Work:**  small main.py file in Day 16 with work on the turtle module. 
+
+<a name="day-17"></a>
 
 ###Day 17: January 17, 2021
 
@@ -238,6 +266,8 @@ quick when it comes to re-using code in modules to then piece together software 
 **Thoughts:** OOP is the buzzword I've heard about in coding. Not new, but still mostly the dominant style ATM.
 
 **Daily Work:**  Uploaded the OOP coffee machine to Day 16
+
+<a name="day-18"></a>
 
 ###Day 18: January 18, 2021
 
@@ -250,6 +280,8 @@ you don't have to?
 **Daily Work:** Uploaded the starting files and support files for the Day 17 project which is a Quiz Game. Began 
 working on the project.
 
+<a name="day-19"></a>
+
 ###Day 19: January 19, 2021
 
 ***Today's Progress:***  Worked on OOP further by finishing the quiz_game from the previous day. Also started working on
@@ -259,6 +291,8 @@ the Turtle module a little more in-depth.
 changing a few lines rather than re-factoring the whole project.
 
 **Daily Work:**  Finished the quiz game on Day 17. Uploaded it to the Day 17 file in the Week 03 directory.
+
+<a name="day-20"></a>
 
 ###Day 20: January 20, 2021
 
@@ -270,6 +304,8 @@ module, and in the knowledge I have gained in regards to coding in general. Fun 
 
 **Daily Work:**  Messed around a bunch with files in Day 17. Deleted and reformatted to make "digital art".
 
+<a name="day-21"></a>
+
 ###Day 21: January 21, 2021
 
 ***Today's Progress:***  More Turtle work, made a turtle race with prompts and tells the winner of the input guess.
@@ -277,6 +313,8 @@ module, and in the knowledge I have gained in regards to coding in general. Fun 
 **Thoughts:** Turtle is, for me personally, a fast way to learn coding with the visual representation.
 
 **Daily Work:**  Day 19 files added
+
+<a name="day-22"></a>
 
 ###Day 22: January 22, 2021
 
@@ -287,6 +325,8 @@ drawing a picture.
 
 **Daily Work:**  Uploaded the files in Day 20
 
+<a name="day-23"></a>
+
 ###Day 23: January 23, 2021
 
 ***Today's Progress:***  Worked a little further in the snake game by adding controls to the movement. Also read from
@@ -296,6 +336,8 @@ computer science distilled, which is turning out to be helpful in basic CS conce
 
 **Daily Work:**  worked on Day 20 main.py and snake.py
 
+<a name="day-24"></a>
+
 ###Day 24: January 24, 2021
 
 ***Today's Progress:***  Learned further into inheritance. Finished the snake(caterpillar game)
@@ -303,6 +345,8 @@ computer science distilled, which is turning out to be helpful in basic CS conce
 **Thoughts:** 
 
 **Daily Work:**  snake game updated in Day 20
+
+<a name="day-25"></a>
 
 ###Day 25: January 25, 2021
 
@@ -314,6 +358,8 @@ of the things that were going on in there.
 
 **Daily Work:**  Created Day 25 directory and added a few files related to the PYPONG game.
 
+<a name="day-26"></a>
+
 ###Day 26: January 26, 2021
 
 ***Today's Progress:***  Finished the PYPONG game in Day 25 on the directory
@@ -321,6 +367,8 @@ of the things that were going on in there.
 **Thoughts:** Putting together the pieces of the game was challenging but rewarding. Took a little longer than expected.
 
 **Daily Work:** main.py in Day 25 is complete as it's going to be at the moment. :) 
+
+<a name="day-27"></a>
 
 ###Day 27: January 27, 2021
 
@@ -330,6 +378,8 @@ of the things that were going on in there.
 
 **Daily Work:**  uploaded numerous files to Day 27
 
+<a name="day-28"></a>
+
 ###Day 28: January 28, 2021
 
 ***Today's Progress:***  Worked on random "art" generators in turtle. Created a spirograph, and then made
@@ -338,6 +388,8 @@ it randomized.
 **Thoughts:** The turtle library is capable of multiple types of visual tasks. 
 
 **Daily Work:**  Uploaded to the Day 28 folder
+
+<a name="day-29"></a>
 
 ###Day 29: January 29, 2021
 
@@ -349,6 +401,8 @@ Just scratching the surface of this vast library.
 
 **Daily Work:**  Uploaded to Day 28 and Day 29 today. 
 
+<a name="day-30"></a>
+
 ###Day 30: January 30, 2021
 
 ***Today's Progress:***  PANDAS practice today. Learned how to manipulate the data in a .csv file with PANDAS.
@@ -359,7 +413,300 @@ the name being mentioned many times online.
 **Daily Work:**  Began work on a U.S. States Map quiz game. Figured out how many squirrels were black, grey, and 
 cinammon in Central Park in NY from a public data share website. Used a .csv file to parse through the data. 
 
+<a name="day-31"></a>
+
 ###Day 31: January 31, 2021
+
+***Today's Progress:***  Used PANDAS and Turtle to complete the U.S. States Quiz game. It will now write the states that
+were missed by the user to a .csv spreadsheet called "states_to_learn.csv"
+
+**Thoughts:** Really fun to see how the different libraries play together to make something. 
+
+**Daily Work:**  Completed the file upload to Day 29 in the project directory.
+
+<a name="day-32"></a>
+
+###Day 32: February 1, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-32"></a>
+
+###Day 32: February 1, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-33"></a>
+
+###Day 33: February 2, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-34"></a>
+
+###Day 34: February 3, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-35"></a>
+
+###Day 35: February 4, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-36"></a>
+
+###Day 36: February 5, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-37"></a>
+
+###Day 37: February 6, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-38"></a>
+
+###Day 38: February 7, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-39"></a>
+
+###Day 39: February 8, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-40"></a>
+
+###Day 40: February 9, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-41"></a>
+
+###Day 41: February 10, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-42"></a>
+
+###Day 42: February 11, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-43"></a>
+
+###Day 43: February 12, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-44"></a>
+
+###Day 44: February 13, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-45"></a>
+
+###Day 45: February 14, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-46"></a>
+
+###Day 46: February 15, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-47"></a>
+
+###Day 47: February 16, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-47"></a>
+
+###Day 47: February 17, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-48"></a>
+
+###Day 48: February 18, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-49"></a>
+
+###Day 49: February 19, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-50"></a>
+
+###Day 50: February 20, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-51"></a>
+
+###Day 51: February 21, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-52"></a>
+
+###Day 52: February 22, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-53"></a>
+
+###Day 53: February 23, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-54"></a>
+
+###Day 54: February 24, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-55"></a>
+
+###Day 55: February 25, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-56"></a>
+
+###Day 56: February 26, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-57"></a>
+
+###Day 57: February 27, 2021
+
+***Today's Progress:***  
+
+**Thoughts:** 
+
+**Daily Work:**  
+
+<a name="day-58"></a>
+
+###Day 58: February 28, 2021
 
 ***Today's Progress:***  
 
