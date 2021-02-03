@@ -7,20 +7,20 @@
 |[Day 1](#day-1) **01/01/21**| Day 8 in #100DaysOfCode course by AppBrewery. Learned about Functions and Parameters.|[Day 2](#day-2) **01/02/21**| Worked on Dictionaries and Nesting today. Blind_bidding program I made found here: https://repl.it/@Cfoley23/blindbidding#main.py|
 |[Day 3](#day-3) **01/03/21**| Learned about Functions and made a simple calculator in Python|[Day 4](#day-4) **01/04/21**| Familiarized myself with the built in IDLE that Python comes with. Followed along to some CS concepts in IDLE to predict how it would read my code. |
 |[Day 5](#day-5) **01/05/21**| Applied more slightly more complex functions to the basic calculator app.|[Day 6](#day-6) **01/06/21**| Began exploring the PRAW documentation to implement a reddit instance in the Paleontology subReddit.|
-|[Day 7](#day-7) **21/10/18**| |[Day-8](#day-8) **22/10/18**| |
-|[Day 9](#day-9) **23/10/18**| |[Day-10](#day-10) **24/10/18**| |
-|[Day 11](#day-11) **25/10/18**| |[Day 12](#day-12) **26/10/18**| | 
-|[Day 13](#day-13) **27/10/18**| |[Day 14](#day-14) **28/10/18**| |
- |[Day 15](#day-15) **29/10/18**| |[Day 16](#day-16) **30/10/18**| |
- |[Day 17](#day-17) **31/10/18**| |[Day 18](#day-18) **1/11/18**| |
- |[Day 19](#day-19) **2/01/18**| |[Day 20](#day-20) **3/11/18**| |
- |[Day 21](#day-21) **4/01/18**| |[Day 22](#day-22) **5/11/18**|  |
- |[Day 23](#day-23) **6/01/18**| |[Day 24](#day-24) **7/11/18**| |
-|[Day 25](#day-25) **8/01/18**| |[Day 26](#day-26) **9/11/18**| |
-|[Day 27](#day-27) **10/01/18**| |[Day 28](#day-28) **11/11/18**| |
-|[Day 29](#day-29) **12/01/18**| |[Day 30](#day-30) **13/11/18**| |
-|[Day 31](#day-31) **14/01/18**| |[Day 32](#day-32) **15/11/18**| |
-|[Day 33](#day-33) **16/01/18**| |[Day 34](#day-34) **17/11/18**| |
+|[Day 7](#day-7) **01/07/21**| Fixed a bug in the simple calculator app. Also taught my son how to use Scratch.|[Day-8](#day-8) **01/08/21**| Finished the simple calculator app. Began working on a blackjack app.|
+|[Day 9](#day-9) **01/09/21**| Worked on the Blackjack program. Learned how to implement diagrams and pseudocode to help solve problems you face in coding.|[Day-10](#day-10) **01/10/21**| Finished the Blackjack game. Practiced pseudocode a litte more today.|
+|[Day 11](#day-11) **01/11/21**| Learned about Global and Local Variables. Worked on number guessing game using learned concepts.|[Day 12](#day-12) **01/12/21**| Started working on a higher_lower.py game today added it to Day 12/Week 02.| 
+|[Day 13](#day-13) **01/13/21**| Worked on a higher or lower guessing game.|[Day 14](#day-14) **01/14/21**| Began working on a coffee machine program.||[Day 19](#day-19) **2/01/18**| |[Day 20](#day-20) **3/11/18**| |
+|[Day 15](#day-15) **01/15/21**| Finished the coffee maker program with basic python concepts.|[Day 16](#day-16) **01/16/21**| Learned about OOP. Played around in the Turtle module. Named my Class object Timmy the Turtle.|
+|[Day 17](#day-17) **01/17/21**| Learned about OOP in Python. Then, worked on re-writing the coffee machine in OOP.|[Day 18](#day-18) **01/18/21**| Learned about Attributes and Methods in Python. Did some small coding exercises to illustrate the concepts. |
+|[Day 19](#day-19) **01/19/21**| Worked on OOP further by finishing the quiz_game from the previous day. Also started working on the Turtle module a little more in-depth.|[Day 20](#day-20) **01/20/21**| Made "digital art" in turtle with the random_walk exercise.|
+|[Day 21](#day-21) **01/21/21**| More Turtle work, made a turtle race with prompts and tells the winner of the input guess.|[Day 22](#day-22) **01/22/21**| Finished the race in turtle. Moved onto making a snake game in the turtle library next.|
+|[Day 23](#day-23) **01/23/21**| Worked further on the snake game and added controls and movement. |[Day 24](#day-24) **01/24/21**| Learned further into inheritance. Finished the snake(caterpillar game).|
+|[Day 25](#day-25) **01/25/21**| Started work on a PONG clone I have rename PYPONG. Also messed around with with turtle.py in the lib folder in python 3.8.|[Day 26](#day-26) **01/26/21**| Finished the PYPONG game in Day 25 on the directory.|
+|[Day 27](#day-27) **01/27/21**| Started and finished the Turtle crossing game in day 27.|[Day 28](#day-28) **01/28/21**| Worked on random "art" generators in turtle. Created a spirograph, and then made it randomized.|
+|[Day 29](#day-29) **01/29/21**| Worked on and finished a mail merge project using the built-in open() function. Started working with Pandas, NumPy today too.|[Day 30](#day-30) **01/30/21**| PANDAS practice today. Learned how to manipulate the data in a .csv file with PANDAS.|
+|[Day 31](#day-31) **01/31/21**| Used PANDAS and Turtle to complete the U.S. States Quiz game. It will now write the states that were missed by the user to a .csv spreadsheet called "states_to_learn.csv"|[Day 32](#day-32) **02/01/21**| Worked on list comprehension further.|
+|[Day 33](#day-33) **02/02/21**| Completed 146 tasks on the freeCodeCamp HTML,CSS & Javascript course.|[Day 34](#day-34) **02/03/21**| |
 |[Day 35](#day-35) **18/01/18**| |[Day 36](#day-36) **19/11/18**||
 |[Day 37](#day-37) **20/01/18**| |[Day 38](#day-38) **21/11/18**| |
 |[Day 39](#day-39) **22/01/18**| |[Day 40](#day-40) **23/11/18**| |
@@ -203,8 +203,7 @@ Set reminders to get up and take breaks frequently throughout the day.
 ###Day 12: January 12, 2021
 
 ***Today's Progress:***  Dove into the world of open source. It is vast and full of so many types of software to 
-contribute to. Once I gain more knowledge on 
-programming syntax in general I will dive back into open source. 
+contribute to. Once I gain more knowledge on programming syntax in general I will dive back into open source. 
 
 **Thoughts:** Open source would be a great way to connect with other developers and build a network as a new developer.
 
@@ -215,8 +214,7 @@ programming syntax in general I will dive back into open source.
 ###Day 13: January 13, 2021
 
 ***Today's Progress:***  Worked on understanding the logic behind the higher_lower.py game I have been tasked to do in 
-the Udemy course by Angela Yu.
-Really great course that I am learning and being challenged on. 
+the Udemy course by Angela Yu. Really great course that I am learning and being challenged on. 
 
 **Thoughts:** Taking breaks is important. Routine is important, but doesn't define 'productive' work. Staying committed 
 to the solution is 90% getting there.
@@ -342,7 +340,7 @@ computer science distilled, which is turning out to be helpful in basic CS conce
 
 ***Today's Progress:***  Learned further into inheritance. Finished the snake(caterpillar game)
 
-**Thoughts:** 
+**Thoughts:** Introduced a little flair to the caterpillar game with randomized colors for the segments.
 
 **Daily Work:**  snake game updated in Day 20
 
@@ -428,31 +426,33 @@ were missed by the user to a .csv spreadsheet called "states_to_learn.csv"
 
 ###Day 32: February 1, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Worked on list comprehension and different ways to implement it in code to refine and simplify
+code.
 
-**Thoughts:** 
+**Thoughts:** List comprehension is definitely a concise way of coding that really cuts down on overall lines in a doc.
 
-**Daily Work:**  
+**Daily Work:**  list comprehension.py file added to Week 01 directory
 
 <a name="day-32"></a>
 
 ###Day 32: February 1, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Worked on HTML, CSS and Javascript on freeCodeCamp.
 
-**Thoughts:** 
+**Thoughts:** HTML is a quick language to setup.
 
-**Daily Work:**  
+**Daily Work:**  Completed 28 different challenges on the course plus the intro course.
 
 <a name="day-33"></a>
 
 ###Day 33: February 2, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Completed a total of 146 challenges on freeCodeCamps HTML, CSS and Javascript course.
 
-**Thoughts:** 
+**Thoughts:** There is a lot of setup that goes into a website, and styling options. Especially when Javascript is 
+added to the stack.
 
-**Daily Work:**  
+**Daily Work:**  Work on the freeCodeCamp can be found here: https://www.freecodecamp.org/fcce784bfa5-3789-41ee-bc14-44d69cbd039d
 
 <a name="day-34"></a>
 
