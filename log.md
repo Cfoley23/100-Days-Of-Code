@@ -20,7 +20,7 @@
 |[Day 27](#day-27) **01/27/21**| Started and finished the Turtle crossing game in day 27.|[Day 28](#day-28) **01/28/21**| Worked on random "art" generators in turtle. Created a spirograph, and then made it randomized.|
 |[Day 29](#day-29) **01/29/21**| Worked on and finished a mail merge project using the built-in open() function. Started working with Pandas, NumPy today too.|[Day 30](#day-30) **01/30/21**| PANDAS practice today. Learned how to manipulate the data in a .csv file with PANDAS.|
 |[Day 31](#day-31) **01/31/21**| Used PANDAS and Turtle to complete the U.S. States Quiz game. It will now write the states that were missed by the user to a .csv spreadsheet called "states_to_learn.csv"|[Day 32](#day-32) **02/01/21**| Worked on list comprehension further.|
-|[Day 33](#day-33) **02/02/21**| Completed 146 tasks on the freeCodeCamp HTML,CSS & Javascript course.|[Day 34](#day-34) **02/03/21**| |
+|[Day 33](#day-33) **02/02/21**| Completed 146 tasks on the freeCodeCamp HTML,CSS & Javascript course.|[Day 34](#day-34) **02/03/21**| Completed more of the Certificate at freeCodeCamp.com today. Started working on a basic webiste to practice further.|
 |[Day 35](#day-35) **18/01/18**| |[Day 36](#day-36) **19/11/18**| |
 |[Day 37](#day-37) **20/01/18**| |[Day 38](#day-38) **21/11/18**| |
 |[Day 39](#day-39) **22/01/18**| |[Day 40](#day-40) **23/11/18**| |
@@ -458,11 +458,11 @@ added to the stack.
 
 ###Day 34: February 3, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Completed more of the Certificate at freeCodeCamp.com today. Started working on a basic webiste to practice further.
 
-**Thoughts:** 
+**Thoughts:** Going to learn some coding languages related to web dev to build a portfolio website from the ground up.
 
-**Daily Work:**  
+**Daily Work:**  Made further progress on my Certification at freeCodeCamp.com here: https://www.freecodecamp.org/fcce784bfa5-3789-41ee-bc14-44d69cbd039d
 
 <a name="day-35"></a>
 
