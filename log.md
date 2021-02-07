@@ -489,11 +489,12 @@ up and running on.
 
 ###Day 37: February 6, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Completed the first project "Tribute Page" and then moved onto the second project the "Survey Form"
+and completed that as well. 
 
-**Thoughts:** 
+**Thoughts:** CSS adds a lot more style to HTML, looking forward to JS.
 
-**Daily Work:**  
+**Daily Work:**  Made further progress on my Certification at freeCodeCamp.com here: https://www.freecodecamp.org/fcce784bfa5-3789-41ee-bc14-44d69cbd039d
 
 <a name="day-38"></a>
 
