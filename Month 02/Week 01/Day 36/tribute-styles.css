@@ -26,6 +26,13 @@ h2 {
 img {
   align: center;
 }
+
+#image {
+display: block;
+max-width: 100%;
+height: auto;
+}
+
 figcaption {
   margin: 0px 350px 100px 350px;
   font-family: arial;
