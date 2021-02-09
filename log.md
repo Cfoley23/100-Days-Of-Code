@@ -21,8 +21,8 @@
 |[Day 29](#day-29) **01/29/21**| Worked on and finished a mail merge project using the built-in open() function. Started working with Pandas, NumPy today too.|[Day 30](#day-30) **01/30/21**| PANDAS practice today. Learned how to manipulate the data in a .csv file with PANDAS.|
 |[Day 31](#day-31) **01/31/21**| Used PANDAS and Turtle to complete the U.S. States Quiz game. It will now write the states that were missed by the user to a .csv spreadsheet called "states_to_learn.csv"|[Day 32](#day-32) **02/01/21**| Worked on list comprehension further.|
 |[Day 33](#day-33) **02/02/21**| Completed 146 tasks on the freeCodeCamp HTML,CSS & Javascript course.|[Day 34](#day-34) **02/03/21**| Completed more of the Certificate at freeCodeCamp.com today. Started working on a basic webiste to practice further.|
-|[Day 35](#day-35) **02/04/21**| Worked through the freeCodeCamp HTML CSS website course. Moved onto the "Tribute Page" project.|[Day 36](#day-36) **19/11/18**| |
-|[Day 37](#day-37) **20/01/18**| |[Day 38](#day-38) **21/11/18**| |
+|[Day 35](#day-35) **02/04/21**| Worked through the freeCodeCamp HTML CSS website course. Moved onto the "Tribute Page" project.|[Day 36](#day-36) **02/05/21**|  Worked on the "Tribute Page" today. Also got familiar with Linux Debian commands.|
+|[Day 37](#day-37) **02/06/21**| Finished the Tribute Page and the Survey page on freeCodeCamp|[Day 38](#day-38) **21/11/18**| Worked a little bit on the "Product Landing Page" on #freeCodeCamp, and completed a little of the #Python section. Also decided to begin on another small website to reinforce my understanding of #html and #css. |
 |[Day 39](#day-39) **22/01/18**| |[Day 40](#day-40) **23/11/18**| |
 [Day 41](#day-41) **24/01/18**| |[Day 42](#day-42) **25/11/18**| |
 [Day 43](#day-43) **26/01/18**| |[Day 44](#day-44) **27/11/18**| |
@@ -478,41 +478,44 @@ added to the stack.
 
 ###Day 36: February 5, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Worked on the "Tribute Page" today. Also got familiar with Linux Debian commands.
 
-**Thoughts:** 
+**Thoughts:** Getting the Chromebook all setup with Linux was worth the extra learning today to get Linux Debian "Buster 10"
+up and running on. 
 
-**Daily Work:**  
+**Daily Work:**  Made further progress on my Certification at freeCodeCamp.com here: https://www.freecodecamp.org/fcce784bfa5-3789-41ee-bc14-44d69cbd039d
 
 <a name="day-37"></a>
 
 ###Day 37: February 6, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Completed the first project "Tribute Page" and then moved onto the second project the "Survey Form"
+and completed that as well. 
 
-**Thoughts:** 
+**Thoughts:** CSS adds a lot more style to HTML, looking forward to JS.
 
-**Daily Work:**  
+**Daily Work:**  Made further progress on my Certification at freeCodeCamp.com here: https://www.freecodecamp.org/fcce784bfa5-3789-41ee-bc14-44d69cbd039d
 
 <a name="day-38"></a>
 
 ###Day 38: February 7, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Worked a little bit on the "Product Landing Page" on #freeCodeCamp, and completed a little of the #Python section. Also decided to begin on another small website to reinforce my understanding of #html and #css. 
 
-**Thoughts:** 
+**Thoughts:** Daily work will help to reinforce certain ideas, but memorizing all the terms isn't needed to become a 
+good programmer.
 
-**Daily Work:**  
+**Daily Work:** Started making a small website to practice what I have learned so far.  
 
 <a name="day-39"></a>
 
 ###Day 39: February 8, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Had quite a bit of progress on my Product Landing Page and lost it after a file crash. 
 
-**Thoughts:** 
+**Thoughts:** Lesson learned there was to save more often and push commits for backups more often as well. 
 
-**Daily Work:**  
+**Daily Work:**  A little further progress on the product landing page was made.
 
 <a name="day-40"></a>
 
