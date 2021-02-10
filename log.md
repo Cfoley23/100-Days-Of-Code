@@ -22,8 +22,8 @@
 |[Day 31](#day-31) **01/31/21**| Used PANDAS and Turtle to complete the U.S. States Quiz game. It will now write the states that were missed by the user to a .csv spreadsheet called "states_to_learn.csv"|[Day 32](#day-32) **02/01/21**| Worked on list comprehension further.|
 |[Day 33](#day-33) **02/02/21**| Completed 146 tasks on the freeCodeCamp HTML,CSS & Javascript course.|[Day 34](#day-34) **02/03/21**| Completed more of the Certificate at freeCodeCamp.com today. Started working on a basic webiste to practice further.|
 |[Day 35](#day-35) **02/04/21**| Worked through the freeCodeCamp HTML CSS website course. Moved onto the "Tribute Page" project.|[Day 36](#day-36) **02/05/21**|  Worked on the "Tribute Page" today. Also got familiar with Linux Debian commands.|
-|[Day 37](#day-37) **02/06/21**| Finished the Tribute Page and the Survey page on freeCodeCamp|[Day 38](#day-38) **21/11/18**| Worked a little bit on the "Product Landing Page" on #freeCodeCamp, and completed a little of the #Python section. Also decided to begin on another small website to reinforce my understanding of #html and #css. |
-|[Day 39](#day-39) **22/01/18**| |[Day 40](#day-40) **23/11/18**| |
+|[Day 37](#day-37) **02/06/21**| Finished the Tribute Page and the Survey page on freeCodeCamp|[Day 38](#day-38) **02/07/21**| Worked a little bit on the "Product Landing Page" on #freeCodeCamp, and completed a little of the #Python section. Also decided to begin on another small website to reinforce my understanding of #html and #css. |
+|[Day 39](#day-39) **02/08/21**| Made a lot of progress on freeCodeCamp but lost it due to internet issues |[Day 40](#day-40) **02/09/21**| Worked on Day 28 on the 100DaysOfCode Udemy course today|
 [Day 41](#day-41) **24/01/18**| |[Day 42](#day-42) **25/11/18**| |
 [Day 43](#day-43) **26/01/18**| |[Day 44](#day-44) **27/11/18**| |
 [Day 45](#day-43) **28/01/18**| |[Day 46](#day-46) **29/11/18**| |
@@ -521,11 +521,11 @@ good programmer.
 
 ###Day 40: February 9, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Worked on Day 28 on the Udemy course.
 
-**Thoughts:** 
+**Thoughts:** Python felt a little rusty after a few days taking off and trying out some HTML and CSS
 
-**Daily Work:**  
+**Daily Work:**  Uploaded to week 5
 
 <a name="day-41"></a>
 
