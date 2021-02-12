@@ -24,7 +24,7 @@
 |[Day 35](#day-35) **02/04/21**| Worked through the freeCodeCamp HTML CSS website course. Moved onto the "Tribute Page" project.|[Day 36](#day-36) **02/05/21**|  Worked on the "Tribute Page" today. Also got familiar with Linux Debian commands.|
 |[Day 37](#day-37) **02/06/21**| Finished the Tribute Page and the Survey page on freeCodeCamp|[Day 38](#day-38) **02/07/21**| Worked a little bit on the "Product Landing Page" on #freeCodeCamp, and completed a little of the #Python section. Also decided to begin on another small website to reinforce my understanding of #html and #css. |
 |[Day 39](#day-39) **02/08/21**| Made a lot of progress on freeCodeCamp but lost it due to internet issues |[Day 40](#day-40) **02/09/21**| Worked on Day 28 on the 100DaysOfCode Udemy course today|
-[Day 41](#day-41) **02/10/21**| Made a phonetic alphabet program, and explored widgets in Tkinter. Started a Pomodoro app.|[Day 42](#day-42) **25/11/18**| |
+[Day 41](#day-41) **02/10/21**| Made a phonetic alphabet program, and explored widgets in Tkinter. Started a Pomodoro app.|[Day 42](#day-42) **02/11/21**| Completed the Pomodoro Timer App. Moved onto working on a password manager.|
 [Day 43](#day-43) **26/01/18**| |[Day 44](#day-44) **27/11/18**| |
 [Day 45](#day-43) **28/01/18**| |[Day 46](#day-46) **29/11/18**| |
 [Day 47](#day-47) **30/11/18**| |[Day 48](#day-48) **01/12/18**| |
@@ -541,11 +541,11 @@ good programmer.
 
 ###Day 42: February 11, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Completed the Pomodoro App and moved onto a Password Manager App. 
 
-**Thoughts:** 
+**Thoughts:** The Pomodoro App is one I can see myself using daily to help with Coding productivity. 
 
-**Daily Work:**  
+**Daily Work:**  Day 28 Folder updated with completed Pomodoro app in main.py
 
 <a name="day-43"></a>
 
