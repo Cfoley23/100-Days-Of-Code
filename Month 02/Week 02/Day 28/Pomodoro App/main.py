@@ -13,6 +13,7 @@ REPS = 0
 TIMER = None
 # ---------------------------- TIMER RESET ------------------------------- # 
 
+
 def reset_timer():
     window.after_cancel(TIMER)
     canvas.itemconfig(timer_text, text="00:00")
@@ -66,6 +67,7 @@ def count_down(count):
         for _ in range(work_sessions):
             mark += checkmark
         checkmark_counter.config(text=mark)
+
 
 # ---------------------------- UI SETUP ------------------------------- #
 
