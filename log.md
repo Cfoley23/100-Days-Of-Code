@@ -25,7 +25,7 @@
 |[Day 37](#day-37) **02/06/21**| Finished the Tribute Page and the Survey page on freeCodeCamp|[Day 38](#day-38) **02/07/21**| Worked a little bit on the "Product Landing Page" on #freeCodeCamp, and completed a little of the #Python section. Also decided to begin on another small website to reinforce my understanding of #html and #css. |
 |[Day 39](#day-39) **02/08/21**| Made a lot of progress on freeCodeCamp but lost it due to internet issues |[Day 40](#day-40) **02/09/21**| Worked on Day 28 on the 100DaysOfCode Udemy course today|
 [Day 41](#day-41) **02/10/21**| Made a phonetic alphabet program, and explored widgets in Tkinter. Started a Pomodoro app.|[Day 42](#day-42) **02/11/21**| Completed the Pomodoro Timer App. Moved onto working on a password manager.|
-[Day 43](#day-43) **02/13/21**| Dug a little bit further into #Tkinter today. Learned some #Lua today to interest my kids a little more in coding. |[Day 44](#day-44) **27/11/18**| |
+[Day 43](#day-43) **02/13/21**| Dug a little bit further into #Tkinter today. Learned some #Lua today to interest my kids a little more in coding. |[Day 44](#day-44) **02/14/21**| Taught and learned along with my kids more on the Lua programming language while also learning the Roblox Studio App|
 [Day 45](#day-43) **28/01/18**| |[Day 46](#day-46) **29/11/18**| |
 [Day 47](#day-47) **30/11/18**| |[Day 48](#day-48) **01/12/18**| |
 [Day 49](#day-49) **02/12/18**| |[Day 50](#day-50) **03/12/18**| |
@@ -562,11 +562,12 @@ them a lifetime.
 
 ###Day 44: February 13, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Taught and learned along with my kids more on the Lua programming language while 
+also learning the Roblox Studio App.
 
-**Thoughts:** 
+**Thoughts:** The Roblox Studio is helping to get most of my kids involved with coding which is an unexpected benefit.
 
-**Daily Work:**  
+**Daily Work:**  Made and "Obbie" course in Roblox.
 
 <a name="day-45"></a>
 
