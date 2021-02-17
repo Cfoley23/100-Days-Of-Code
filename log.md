@@ -577,13 +577,14 @@ also learning the Roblox Studio App.
 
 **Thoughts:** All the kids are coming together in the development process which is fun to see and encourage.
 
-**Daily Work:**  Log entry
+**Daily Work:**  
 
 <a name="day-46"></a>
 
 ###Day 46: February 15, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Re-opened Blender for the first time in many years. Was fund to get back to designing models. Roblox 
+obby is coming along faster with the addition of meshparts. I am slowly incorporating Lus scripts into the obby.
 
 **Thoughts:** 
 
