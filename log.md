@@ -594,7 +594,7 @@ obby is coming along faster with the addition of meshparts. I am slowly incorpor
 
 ###Day 47: February 16, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Getting past beginner scripting concepts in #lua today. Spending too much time in #Blender3d which turned out to be my “squirrel” this evening. 
 
 **Thoughts:** 
 
