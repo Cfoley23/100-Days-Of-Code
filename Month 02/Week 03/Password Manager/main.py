@@ -1,19 +1,58 @@
 from tkinter import *
+from tkinter import messagebox
+import pyperclip
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 
+# Password Generator Project
+
+
+def generate_password():
+    import random
+    letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v',
+               'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R',
+               'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+    numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+    symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
+
+    nr_letters = random.randint(8, 10)
+    nr_symbols = random.randint(2, 4)
+    nr_numbers = random.randint(2, 4)
+
+    password_letters = [random.choice(letters) for _ in range(nr_letters)]
+    password_symbols = [random.choice(symbols) for _ in range(nr_symbols)]
+    password_numbers = [random.choice(numbers) for _ in range(nr_numbers)]
+
+    password_list = password_letters + password_symbols + password_letters
+
+    random.shuffle(password_list)
+
+    password = "".join(password_list)
+
+    password_entry.insert(0, password)
+    pyperclip.copy(password)
+
 # ---------------------------- SAVE PASSWORD ------------------------------- #
+
 
 def save():
     website = website_entry.get()
     email = email_username_entry.get()
     password = password_entry.get()
 
-    with open("data.txt", "a") as data_file:
-        data_file.write(f"{website}  ][  {email}  ][  {password}")
-        website_entry.delete(0, END)
+    if len(website) == 0 or len(password) == 0:
+        messagebox.showinfo(title="Oops!", message="Don't leave any fields blank.")
+    else:
+        is_ok = messagebox.askokcancel(title=website, message=(f"These are the details entered:\n\nEmail: {email}\n"
+                                                               f"Password: {password}\nWebsite: {website}\n"))
+        if is_ok:
+            with open("data.txt", "a") as data_file:
+                data_file.write(f"[ {website}  ]-*-[  {email}  ]-*-[  {password} ]\n")
+                website_entry.delete(0, END)
+                password_entry.delete(0, END)
 
 # ---------------------------- UI SETUP ------------------------------- #
+
 
 window = Tk()
 window.title("Password Manager")
@@ -38,9 +77,9 @@ email_username_entry.grid(column=1, row=2, columnspan=2)
 email_username_entry.insert(0, "youraddress@email.com")
 password_entry = Entry(width=36)
 password_entry.grid(column=1, row=3, columnspan=2)
-password_button = Button(width=24, text="Generate Password", font=("Arial"))
+password_button = Button(width=24, text="Generate Password", font="Arial", command=generate_password)
 password_button.grid(column=1, row=4)
-add_button = Button(width=24, text="ADD", font=("Arial", 12))
+add_button = Button(width=24, text="ADD", font=("Arial", 12), command=save)
 add_button.grid(column=1, row=5)
 
 window.mainloop()

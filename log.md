@@ -27,7 +27,8 @@
 [Day 41](#day-41) **02/10/21**| Made a phonetic alphabet program, and explored widgets in Tkinter. Started a Pomodoro app.|[Day 42](#day-42) **02/11/21**| Completed the Pomodoro Timer App. Moved onto working on a password manager.|
 [Day 43](#day-43) **02/13/21**| Dug a little bit further into #Tkinter today. Learned some #Lua today to interest my kids a little more in coding. |[Day 44](#day-44) **02/14/21**| Taught and learned along with my kids more on the Lua programming language while also learning the Roblox Studio App|
 [Day 45](#day-43) **02/15/21**| Got further into the Roblox Studio with my kids again today. We started a course that we will be following together from http://CodaKid.com |[Day 46](#day-46) **29/11/18**| |
-[Day 47](#day-47) **30/11/18**| |[Day 48](#day-48) **01/12/18**| |
+[Day 47](#day-47) **30/11/18**| |[Day 48](#day-48) **01/12/18**| Completed the basic version of the password manager. Moved onto learning Error 
+Handling and Exceptions practices.|
 [Day 49](#day-49) **02/12/18**| |[Day 50](#day-50) **03/12/18**| |
 [Day 51](#day-51) **04/12/18**| |[Day 52](#day-52) **05/12/18**|  |
 [Day 53](#day-53) **06/12/18**| |[Day 54](#day-54) **07/12/18**|  |
@@ -598,11 +599,11 @@ obby is coming along faster with the addition of meshparts. I am slowly incorpor
 
 **Thoughts:** 
 
-**Daily Work:**  
+**Daily Work:**  Roblox Studio files added
 
 <a name="day-47"></a>
 
-###Day 47: February 17, 2021
+###Day 48: February 17, 2021
 
 ***Today's Progress:***  
 
@@ -612,13 +613,14 @@ obby is coming along faster with the addition of meshparts. I am slowly incorpor
 
 <a name="day-48"></a>
 
-###Day 48: February 18, 2021
+###Day 49: February 18, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Completed the basic version of the password manager. Moved onto learning Error 
+Handling and Exceptions practices.
 
-**Thoughts:** 
+**Thoughts:** Anticipating errors and handling the errors properly is important to make sure you don't have a major issue with a bug.
 
-**Daily Work:**  
+**Daily Work:**  Day 30 file and work added
 
 <a name="day-49"></a>
 

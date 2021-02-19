@@ -1,0 +1,7 @@
+[ Amazon  ]-*-[  youraddress@email.com  ]-*-[  password ]
+[ Ebay  ]-*-[  youraddress@email.com  ]-*-[  password2 ]
+[ Gmail  ]-*-[  youraddress@email.com  ]-*-[  Password3 ]
+[ website username  ]-*-[  youraddress@email.com  ]-*-[  Password4 ]
+[ hello   ]-*-[  youraddress@email.com  ]-*-[  redpants ]
+[ new place  ]-*-[  youraddress@email.com  ]-*-[  newPassword ]
+[ wer  ]-*-[  youraddress@email.com  ]-*-[  werwerwerwwer ]
