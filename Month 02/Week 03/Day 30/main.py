@@ -5,8 +5,20 @@
 #one method of handling the filenotfounderror
 try:
     file = open("a_file.txt")
-except:
-    file = open("a_file.txt", "w")
+    a_dictionary = {"key": "value"}
+    print(a_dictionary["not_found"])
+except FileNotFoundError:
+    file = open("a_file.txt", "a")
+    file.write("This is a new sentence.\n")
+except KeyError as error_message:
+    print(f"The {error_message} Does Not Exist")
+else:
+    content = file.read()
+    print(content)
+finally:
+    raise TypeError("This is an error that I made up.")
+    file.close()
+    print("File Closed")
 
 
 # nonexistantkeyerror
