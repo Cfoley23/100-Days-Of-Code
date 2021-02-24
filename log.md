@@ -656,7 +656,7 @@ to experience some Lua "in the wild".
 
 ###Day 52: February 22, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Modded some lua , xml and ecs files today in NOita. Enjoying the mixture of fun and learning. 
 
 **Thoughts:** 
 

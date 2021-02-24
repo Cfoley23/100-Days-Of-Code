@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\Month 02\Week 03\Day 30\NATO-reafactored\reference.lua">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Month 02\Week 03\Password Manager\main.py">
           <value>
             <Attribute>
