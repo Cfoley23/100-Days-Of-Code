@@ -666,7 +666,8 @@ to experience some Lua "in the wild".
 
 ###Day 53: February 23, 2021
 
-***Today's Progress:***  
+***Today's Progress:***  Modded a few weather files in Noita, and also modded some wand attributes after figuring out some of 
+what I was looking at. 
 
 **Thoughts:** 
 
